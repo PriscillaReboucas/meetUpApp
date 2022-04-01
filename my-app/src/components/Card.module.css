@@ -1,0 +1,25 @@
+a {
+    text-decoration: none;
+}
+
+img {
+    width: 180px;
+    height: 180px;
+   
+}
+
+.name {
+    width: 150px;
+    height: 30px;
+    color: black;
+    margin: 0.25rem;
+    padding-left: 0.25rem;
+}
+
+.pokemon {
+    border: 0.25rem solid red;
+}
+
+.pokemon:hover {
+    opacity: 0.8;
+}

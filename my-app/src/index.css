@@ -3,20 +3,19 @@
 
 * {
   box-sizing: border-box;
+  list-style: none;
+  margin:0;
+  padding: 0;
 }
 
 body {
   font-family: 'Open Sans', sans-serif;
-  margin: 0;
-  background-color: #fcf3f6;
+
+  background-color: #e2eeef;
+ 
 }
 
-h1 {
-  font-size: 2.5rem;
-  color: #2c292b;
-}
+input {
+  border: 0.25rem solid rgba(116, 148, 234, 1);
 
-h2 {
-  font-size: 1.5rem;
-  color: #2c292b;
 }

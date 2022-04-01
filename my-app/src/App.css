@@ -1,0 +1,22 @@
+h1 {
+    margin-top: -1rem;
+    padding: 2rem;
+    background-color: rgba(15, 62, 200, 0.824);
+    display: flex;
+    align-items: center;
+}
+  
+h1 span {
+    display: inline-block;
+      font-weight: bold;
+      background: linear-gradient(to right, #fffffff7 50%,yellow 50%);
+      background-clip: text;
+      -webkit-background-clip: text;
+      color: transparent;
+  
+}
+
+h1 img {
+    width: 60px;
+    height: 60px;
+}
